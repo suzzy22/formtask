@@ -1,0 +1,55 @@
+body{
+    background:url(https://www.stxnext.com/hs-fs/hubfs/A%20better%20workspace%20solution%20for%20software%20developers.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
+  
+  .header{
+      text-align: center;
+      padding: 20px 18px;
+    text-shadow:2px 2px blue;
+  }
+  #form{
+          width:50%;
+          margin:0 auto;
+          background-color: rgba(20, 20, 50, 0.8);
+          padding: 30px;
+          border-radius: 4px;
+          color: white;
+      }
+      .body{
+          margin-bottom: 10px;
+      }
+     
+      input[type=text], select, textarea{
+          width: 50%;
+          padding: 12px 20px;
+          margin: 8px 0;
+          box-sizing: border-box;
+          border-radius: 4px;
+        
+        }
+        textarea:hover {
+       background-color: grey;
+        }
+        input[type=text]:hover {
+          background-color: grey;
+           }
+           select:hover {
+              background-color: grey;
+               }
+               input[type=submit]{
+                   width:100%;
+                   background-color:green;
+                  color: white;
+                   padding: 12px 20px;
+                   margin: 8px 0;
+                   box-sizing: border-box;
+                   border-radius: 4px;
+                 cursor:pointer;
+  
+               }
+  input[type=submit]:hover{
+    background-color:lightgreen;
+    color:white;
+  }
