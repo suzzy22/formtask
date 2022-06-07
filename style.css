@@ -1,4 +1,8 @@
-
+ body{
+    background:url(https://www.stxnext.com/hs-fs/hubfs/A%20better%20workspace%20solution%20for%20software%20developers.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
   
   .header{
       text-align: center;
